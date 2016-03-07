@@ -1,0 +1,28 @@
+name: Navya
+favicon: null
+layout_spectrum: 0.6817516044247895
+typography_spectrum: 0.7387870862148702
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.004552150145173073
+  lightness: 0.29550483147613704
+  saturation: 0.7040002476423979
+  rhythmicContrast: 0.17847350356169045
+purpose: []
